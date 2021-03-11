@@ -1,4 +1,9 @@
+Mercurio
+Venus
 Terra
 Marte
-Venus
 Jupter
+Saturno
+Netuno
+Urano
+Plutão
