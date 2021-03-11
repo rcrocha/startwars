@@ -10,3 +10,4 @@ Plutão
 Repo1
 Repo2
 Mundaça no repo2 realizada no branch main.
+Mundaça no repo1 realizada no branch novoB.

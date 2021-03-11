@@ -1,5 +1,6 @@
-Lua
-Io
-Encelados
-Calisto
+1.Lua
+2.Io
+3.Encelados
+4.Calisto
 Mundaça no repo2 realizada no branch main.
+Mundaça no repo1 realizada no branch novoB.
