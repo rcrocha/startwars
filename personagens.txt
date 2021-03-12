@@ -1,17 +1,17 @@
-1. Luke
-2. Yoda
-3. Kylo Ren
-4. Ray
-5. Finn
-6. Leia
-7. Ran
-Poe Demeron
-Do Ku
-Barbarella
-Sarayba
-Vanda
-Vison
-Capitão amarica
-IronMan
-Hulk
-Viuva Negra
+1.  Luke
+2.  Yoda
+3.  Kylo Ren
+4.  Ray
+5.  Finn
+6.  Leia
+7.  Ran
+8.  Poe Demeron
+9.  Do Ku
+10. Barbarella
+11. Sarayba
+12. Vanda
+13. Vison
+14. Capitão amarica
+15. IronMan
+16. Hulk
+17. Viuva Negra
