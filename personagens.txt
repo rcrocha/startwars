@@ -1,6 +1,6 @@
-Luke
-Yoda
-Kylo Ren
+1. Luke
+2. Yoda
+3. Kylo Ren
 Ray
 Finn
 Leia
