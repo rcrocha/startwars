@@ -1,10 +1,10 @@
 1. Luke
 2. Yoda
 3. Kylo Ren
-Ray
-Finn
-Leia
-Ran
+4. Ray
+5. Finn
+6. Leia
+7. Ran
 Poe Demeron
 Do Ku
 Barbarella
