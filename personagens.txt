@@ -7,12 +7,12 @@
 12. Vanda
 11. Sarayba
 10. Barbarella
-8.  Poe Demeron
 9.  Do Ku
+8.  Poe Demeron
+7.  Ran
+6.  Leia
+5.  Finn
+4.  Ray
 1.  Luke
 2.  Yoda
 3.  Kylo Ren
-4.  Ray
-5.  Finn
-6.  Leia
-7.  Ran
