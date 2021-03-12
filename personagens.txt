@@ -1,5 +1,6 @@
 18. Dart Mau
 17. Viuva Negra
+16. Hulk
 1.  Luke
 2.  Yoda
 3.  Kylo Ren
@@ -15,4 +16,3 @@
 13. Vison
 14. Capitão amarica
 15. IronMan
-16. Hulk
