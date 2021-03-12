@@ -13,6 +13,6 @@
 6.  Leia
 5.  Finn
 4.  Ray
-1.  Luke
-2.  Yoda
 3.  Kylo Ren
+2.  Yoda
+1.  Luke
