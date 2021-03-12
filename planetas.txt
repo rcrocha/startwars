@@ -7,6 +7,4 @@ Saturno
 Netuno
 Urano
 Plutão
-1 - dev1
-2 - dev1
-3 - dev1
+---Zero
