@@ -1,3 +1,4 @@
+28. Bruce Springsteen
 27. Bruce Lee
 26. Joana
 25. Cris Father
@@ -25,3 +26,4 @@
 2.  Yoda
 1.  Luke
 0.  Palpatine
+-1. Bolsonaro
